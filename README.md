@@ -1,2 +1,13 @@
-# DeepLearnXplain
-Un dépôt  en français pour explorer, expliquer et maîtriser les concepts fondamentaux et avancés du deep learning. Chaque sujet est abordé avec rigueur, clarté et des exemples concrets d'implémentation pour apprendre en profondeur. Idéal pour les passionnés d’IA qui veulent comprendre vraiment, pas juste appliquer.
+# Applied Mathematics with NumPy and Matplotlib
+
+This repository contains exercises and small projects developed as part of my studies in applied mathematics.
+
+The goal is to practice numerical computation, problem solving and visualization using Python, NumPy and Matplotlib.
+
+Topics include:
+- Array manipulation and vectorized computations
+- Mathematical problem solving with NumPy
+- Basic image processing and visualization
+- Numerical and graphical exploration of mathematical concepts
+
+Projects and notebooks will be added progressively.
